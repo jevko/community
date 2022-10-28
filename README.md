@@ -14,4 +14,4 @@ Contributions are welcome!
 
 ## Jevko examples
 
-* [Labeled ordered trees encoded with Jevko and visualized with Dot diagrams](https://github.com/jevko/examples/kragen/README.md) by [kragen](http://canonical.org/~kragen/); public domain
+* [Labeled ordered trees encoded with Jevko and visualized with Dot diagrams](https://github.com/jevko/examples/blob/master/kragen/README.md) by [kragen](http://canonical.org/~kragen/); public domain
