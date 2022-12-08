@@ -6,6 +6,8 @@ It favors free and open-source projects. Each project may have a different licen
 
 Contributions are welcome!
 
+See also the official [Jevko organization on Codeberg](https://codeberg.org/jevko-org) and the official [/r/jevko subreddit](https://www.reddit.com/r/jevko/).
+
 ## Jevko parsers
 
 ### Haskell
