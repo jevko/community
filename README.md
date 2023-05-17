@@ -22,4 +22,4 @@ See also the official [Jevko organization on Codeberg](https://codeberg.org/jevk
 
 * [Labeled ordered trees encoded with Jevko and visualized with Dot diagrams](https://github.com/jevko/examples/blob/master/kragen/README.md) by [kragen](http://canonical.org/~kragen/); public domain
 
-* [A few examples](https://github.com/jevko/examples/blob/master/quag/README.md) by [quag](https://github.com/quag); [MIT License](https://choosealicense.com/licenses/mit/).
+* [A few examples](https://github.com/jevko/examples/blob/master/quag/README.md) by [quag](https://github.com/quag); [MIT License](https://choosealicense.com/licenses/mit/)
