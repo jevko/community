@@ -4,19 +4,27 @@ This repo is the official place (until a better one is figured out) that feature
 
 It favors free and open-source projects. Each project may have a different license, which should be specified in its description.
 
-Contributions are welcome!
+**Contributions are welcome!**
 
 See also the official [Jevko organization on Codeberg](https://codeberg.org/jevko-org) and the official [/r/jevko subreddit](https://www.reddit.com/r/jevko/).
 
 ## Jevko parsers
 
+Parsers which (aim to) implement Jevko according to [the specification](https://jevko.org/spec.html) are marked with ✅.
+
+See [Jevko Parser Test Data](https://codeberg.org/jevko-org/jevko-parser-test-data) for some test data and guidelines on how to make your parser compliant with the spec.
+
 ### Haskell
 
-* [jevko](https://github.com/lgastako/jevko) by [lgastako](https://github.com/lgastako); [BSD-3-Clause license](https://github.com/lgastako/jevko/blob/main/LICENSE)
+* ✅ [jevko](https://github.com/lgastako/jevko) by [lgastako](https://github.com/lgastako); [BSD-3-Clause license](https://github.com/lgastako/jevko/blob/main/LICENSE)
 
 ### Nim
 
-* [jevko.nim](https://codeberg.org/torupediron/jevko.nim) by [torupediron](https://codeberg.org/torupediron); [BSD-3-Clause license](https://codeberg.org/torupediron/jevko.nim/src/branch/master/LICENSE)
+* ✅ [jevko.nim](https://codeberg.org/torupediron/jevko.nim) by [torupediron](https://codeberg.org/torupediron); [BSD-3-Clause license](https://codeberg.org/torupediron/jevko.nim/src/branch/master/LICENSE)
+
+### C
+
+* [jevko.h](https://gist.github.com/rzuf79/65f05087a611f11ebf2a3b91ea42609a) by [rzuf](https://gist.github.com/rzuf79); unspecified or [MIT License](https://choosealicense.com/licenses/mit/)
 
 ## Jevko examples
 
