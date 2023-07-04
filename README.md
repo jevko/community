@@ -10,17 +10,17 @@ See also the official [Jevko organization on Codeberg](https://codeberg.org/jevk
 
 ## Jevko parsers
 
-Parsers which (aim to) implement Jevko according to [the specification](https://jevko.org/spec.html) are marked with ✅.
+Parsers which (aim to) implement Jevko according to [the specification](https://jevko.org/spec.html) are marked with [x].
 
 See [Jevko Parser Test Data](https://codeberg.org/jevko-org/jevko-parser-test-data) for some test data and guidelines on how to make your parser compliant with the spec.
 
 ### Haskell
 
-* ✅ [jevko](https://github.com/lgastako/jevko) by [lgastako](https://github.com/lgastako); [BSD-3-Clause license](https://github.com/lgastako/jevko/blob/main/LICENSE)
+* [x] [jevko](https://github.com/lgastako/jevko) by [lgastako](https://github.com/lgastako); [BSD-3-Clause license](https://github.com/lgastako/jevko/blob/main/LICENSE)
 
 ### Nim
 
-* ✅ [jevko.nim](https://codeberg.org/torupediron/jevko.nim) by [torupediron](https://codeberg.org/torupediron); [BSD-3-Clause license](https://codeberg.org/torupediron/jevko.nim/src/branch/master/LICENSE)
+* [x] [jevko.nim](https://codeberg.org/torupediron/jevko.nim) by [torupediron](https://codeberg.org/torupediron); [BSD-3-Clause license](https://codeberg.org/torupediron/jevko.nim/src/branch/master/LICENSE)
 
 ### C
 
