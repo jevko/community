@@ -10,17 +10,17 @@ See also the official [Jevko organization on Codeberg](https://codeberg.org/jevk
 
 ## Jevko parsers
 
-Parsers which (aim to) implement Jevko according to [the specification](https://jevko.org/spec.html) are marked with :white_check_mark.
+Parsers which (aim to) implement Jevko according to [the specification](https://jevko.org/spec.html) are marked with :green_circle:.
 
 See [Jevko Parser Test Data](https://codeberg.org/jevko-org/jevko-parser-test-data) for some test data and guidelines on how to make your parser compliant with the spec.
 
 ### Haskell
 
-* :white_check_mark [jevko](https://github.com/lgastako/jevko) by [lgastako](https://github.com/lgastako); [BSD-3-Clause license](https://github.com/lgastako/jevko/blob/main/LICENSE)
+* :green_circle: [jevko](https://github.com/lgastako/jevko) by [lgastako](https://github.com/lgastako); [BSD-3-Clause license](https://github.com/lgastako/jevko/blob/main/LICENSE)
 
 ### Nim
 
-* :white_check_mark [jevko.nim](https://codeberg.org/torupediron/jevko.nim) by [torupediron](https://codeberg.org/torupediron); [BSD-3-Clause license](https://codeberg.org/torupediron/jevko.nim/src/branch/master/LICENSE)
+* :green_circle: [jevko.nim](https://codeberg.org/torupediron/jevko.nim) by [torupediron](https://codeberg.org/torupediron); [BSD-3-Clause license](https://codeberg.org/torupediron/jevko.nim/src/branch/master/LICENSE)
 
 ### C
 
